@@ -7,5 +7,5 @@ Online judge system - https://judge.softuni.org/
 
 SoftUni provides high-quality education, profession and job to people who want to learn coding.
 
-Learn more at https://softuni.org.
+Learn more at - https://softuni.bg/
 
